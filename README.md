@@ -21,4 +21,5 @@ _______
 Si estás buscando una persona seria, comprometida, creativa y responsable ¡No dudes en contactarme! Juntos podemos realizar grandes soluciones.
 
 Correo: mariapilarcarranza@gmail.com
-Linkedin: https://www.linkedin.com/in/maria-pilar-carranza-4a083221b/
+Linkedin: [https://www.linkedin.com/in/maria-pilar-carranza-4a083221b/](https://www.linkedin.com/in/mariapilarcarranza/)
+Argentina.
