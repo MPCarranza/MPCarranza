@@ -12,10 +12,10 @@ Actualmente trabajo en una landing page para el primer repelente aprobado por AN
 Mi objetivo es consolidar mi carrera en el sector IT, trabajando en equipo para una empresa donde pueda aportar soluciones creativas y técnicas como Front-end Developer o Project Manager.
 
 ### Principales tecnologías:
-##### •	Frontend: Typescript, React.js, Next.js, Tailwind, Bootstrap, CSS, HTML
-##### •	Backend: Node.js, Express.js, PostgreSQL
-##### •	Además: Redux, Git, Javascript, Vercel.
-##### • Otras herramientas: Canva, Figma, Capcut, Trello, Adobe Photoshop, Adobe Lightroom, Adobe Premiere Rush
+#### •	Frontend: Typescript, React.js, Next.js, Tailwind, Bootstrap, CSS, HTML
+#### •	Backend: Node.js, Express.js, PostgreSQL
+#### •	Además: Redux, Git, Javascript, Vercel.
+#### • Otras herramientas: Canva, Figma, Capcut, Trello, Adobe Photoshop, Adobe Lightroom, Adobe Premiere Rush
 _______
 ### Contáctame
 Si estás buscando una persona seria, comprometida, creativa y responsable ¡No dudes en contactarme! Juntos podemos realizar grandes soluciones.
